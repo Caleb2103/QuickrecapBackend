@@ -13,7 +13,7 @@ def generate_questions_flashcard(text, numero_preguntas):
            {{
              "id": 1, #ID unico para cada termino-definicion
              "termino": "Aca el termino que vas a definir según el texto proporcionado",
-             "definicion": aca ira la definicion del termino,
+             "definicion": Aca ira la definicion del termino (menos de 40 palabras),
            }},
            // Agregar más terminos
          ]
