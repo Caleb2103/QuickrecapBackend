@@ -89,10 +89,10 @@ WSGI_APPLICATION = 'quickrecap.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'db_quickrecap',
-        'USER': 'db_quickrecap_user',
-        'PASSWORD': 'zoqD9qwbwIgsaOlEukfrAuIP1XrVx8iA',
-        'HOST': 'dpg-d08q0h95pdvs739p3d2g-a.oregon-postgres.render.com',
+        'NAME': 'quickrecapbd',
+        'USER': 'quickrecapbd_user',
+        'PASSWORD': 'BTQnLf37qozPL3Cti5QLq20yOQHDIa1U',
+        'HOST': 'dpg-d1507iripnbc739n8gvg-a.oregon-postgres.render.com',
         'PORT': '5432'
     }
 }
